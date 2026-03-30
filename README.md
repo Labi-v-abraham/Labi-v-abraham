@@ -70,15 +70,15 @@
 ## 🔥 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jissjames322&theme=tokyo-night" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Labi-v-abraham&theme=tokyo-night" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-* 💼 LinkedIn: https://linkedin.com/in/your-profile
-* 📧 Email: [yourmail@gmail.com](mailto:yourmail@gmail.com)
+* 💼 LinkedIn: https://linkedin.com/in/labivabraham
+* 📧 Email: [labivabraham.c@gmail.com](mailto:labivabraham.c@gmail.com)
 
 ---
 
